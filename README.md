@@ -1,1 +1,1 @@
-# Bayesian Over-The-Air Computation
+# Bayesian Over-The-Air Computation (manuscript)
